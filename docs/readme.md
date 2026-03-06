@@ -17,7 +17,7 @@ A variável é número de consultas por utente no último ano. O tipo de variáv
 
 > b) Constrói uma tabela de frequências completa (Frequência Absoluta, Relativa, Absoluta Acumulada, Relativa Acumulada).
 
-[Tabela de frequências](tabela_de_frequencias.r)
+[Tabela de frequências](../tabela_de_frequencias.r)
 
 > c) Interpreta o significado da 3ª linha da tabela (a linha correspondente a 3 consultas).
 
